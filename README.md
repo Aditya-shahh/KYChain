@@ -1,10 +1,10 @@
-# FSociety
+#KYChain
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)   <a href="https://www.npmjs.com/package/standard"><img src="https://img.shields.io/npm/v/standard.svg" alt="npm version"></a>
 
 
 
 
-## KYChain
+## Highlights
  * Smart alternative to traditional KYC modules 
  * Blockchain as a Service (BaaS)
 
